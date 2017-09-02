@@ -6,7 +6,7 @@ var app = express();
 
 
 
-var catchFirstUrl = 'http://checkin.longruan.com/V2/HBBX/Default.aspx';
+var catchFirstUrl = 'xxxxxxxxxxxxxxxxxxxxx';
 function start() {
   app.get('/', function (req, res, next) {
     superagent.get(catchFirstUrl)
