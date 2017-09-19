@@ -1,0 +1,13 @@
+.DS_Store
+
+node_modules
+coverage
+.idea
+public
+routes
+views
+app.js
+node-lesson.iml
+package.json
+bin
+npm-debug.log
